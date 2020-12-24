@@ -15,4 +15,7 @@ Commands and steps.
 10. git checkout master - to change between branches. (Always be switch to master branch and merge others to it)
 11. ls - list of files in the directory.
 12. cat TestingCode.py - to view the file.
-13. 
+13. git remote -v - To check the current remote.
+    Output :  origin  https://github.com/nish4596/SpyderIntegrationTest.git (fetch)
+              origin  https://github.com/nish4596/SpyderIntegrationTest.git (push)
+14. git remote set-url origin "Paste link" - To change the remote url.
